@@ -1,0 +1,3 @@
+cd models
+pip install transformers
+python parse_intent.py
